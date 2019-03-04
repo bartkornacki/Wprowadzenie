@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe13e5c3-70a0-4d9b-920e-39a87f4da2ff" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/szkolenie10112018$Lotek.ic" NAME="Lotek Coverage Results" MODIFIED="1542663554479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day3.zadanie.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1724841771">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="dat" value="13" />
+          <entry key="java" value="324" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="324" />
+          <entry key="PLAIN_TEXT" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="java" value="42079" />
+          <entry key="txt" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="42079" />
+          <entry key="PLAIN_TEXT" value="91" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-242704196">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/Hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day7/wyjatki/Wyjatek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/zadania/Zadanie1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/Hello.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/Kalkulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/zadania/ZadaniaDom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day7/Zadanie1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day6/Kolekcje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="99" selection-end-line="139" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Loops</find>
+      <find>konstr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/day6/excercises</dir>
+      <dir>$PROJECT_DIR$/src/main/java/day7</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/day7/wyjatki/naszWlasnyWyjatek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/wyjatki/NaszWlasnyWyjatek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day5/antykwariat/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/modyfikatoryDostepu/Modyfikatory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/modyfikatoryDostepu/KlasaWPakiecie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/modyfikatoryDostepu/podPakiet/KlasaWPodpakiecie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/modyfikatoryDostepu/podPakiet/KlasaDiedziczacaWPodpakiecie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/enumes/Kolory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/enumes/KolorSingle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/enumes/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/enumes/ColorCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/domain/Author.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/dao/KsiazkaDAOMem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/dao/KsiazkaDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/domain/Ksiazka.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/domain/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/dao/BookDAOMem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/pracaDomowa/PracaDomowa.java" />
+        <option value="$PROJECT_DIR$/Bookstore.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/bookstore/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/FileDoesNotExist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/NaszWlasnyWyjatek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/wyjatki/Wyjatek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFilesave.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/FileDoesNotExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/Wyjatek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Main.java" />
+        <option value="$PROJECT_DIR$/Bookstore.dat" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Dupa.java" />
+        <option value="$PROJECT_DIR$/plik.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day3/TestCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFile2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileBackup2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileBackup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Author.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOMem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praceDomowe/PracaDomowa.java" />
+        <option value="$PROJECT_DIR$/../praceDomowe/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/../praceDomowe/bookstore/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/../praceDomowe/bookstore/dao/BookDAOFile.java" />
+        <option value="$PROJECT_DIR$/../praceDomowe/bookstore/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day7/Zadanie1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day6/Kolekcje.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day5/IntToBin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="std" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="excercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day6" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day6" type="462c0819:PsiDirectoryNode" />
+              <item name="powtorki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="day7" type="462c0819:PsiDirectoryNode" />
+              <item name="wyjatki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="szkolenie10112018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Szkolenie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/bartlomiejkornacki/Downloads/Java/Szkolenie/src/main/java/day5/abstract4/KrzesloDAO.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551720918043" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="praceDomowe.bookstore.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../praceDomowe" />
+      <recent name="$PROJECT_DIR$/src/main/java/praceDomowe" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="praceDomowe.bookstore.dao" />
+      <recent name="praceDomowe.bookstore.domain" />
+      <recent name="day6" />
+      <recent name="day5.excercises" />
+      <recent name="day5.abstract5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/praceDomowe/zadanie" />
+      <recent name="$PROJECT_DIR$/src/main/java/praceDomowe/palindrom" />
+      <recent name="$PROJECT_DIR$/src/main/java/praceDomowe" />
+      <recent name="$PROJECT_DIR$/src/main/java/day3/zadanie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="IntToBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.IntToBin" />
+      <module name="WprowadzenieJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lotek" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praceDomowe.zadanie.Lotek" />
+      <module name="Szkolenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praceDomowe.zadanie.Totolotek" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Main" />
+      <module name="WprowadzenieJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.abstract4.Main" />
+      <module name="Szkolenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.abstract4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracaDomowa (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praceDomowe.PracaDomowa" />
+      <module name="praceDomowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praceDomowe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day7.Zadanie1" />
+      <module name="Szkolenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lotek" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Zadanie1" />
+      <item itemvalue="Application.PracaDomowa (1)" />
+      <item itemvalue="Application.IntToBin" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.IntToBin" />
+        <item itemvalue="Application.Zadanie1" />
+        <item itemvalue="Application.PracaDomowa (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe13e5c3-70a0-4d9b-920e-39a87f4da2ff" name="Default Changelist" comment="" />
+      <created>1541843375094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541843375094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="834" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" weight="0.3297568" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2911302" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.27260083" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49785408" weight="0.32479784" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49427754" weight="0.30862534" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/java/praceDomowe" />
+      <path value="$PROJECT_DIR$/src/main/java/testgit" />
+      <path value="$PROJECT_DIR$/src/main/java/testgitlocal/apka" />
+      <path value="$PROJECT_DIR$/src/main/java/testgitlocal/testgitremote" />
+      <path value="$PROJECT_DIR$/src/main/java/testgitremote" />
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/src/main/java" />
+      <path value="$PROJECT_DIR$/../Java/" />
+      <path value="$PROJECT_DIR$/../" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/praceDomowe/palindrom/Palindrom.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/FileDoesNotExistException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Exception/Wyjatek.java" />
+    <entry file="file://$PROJECT_DIR$/plik.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Dupa.java" />
+    <entry file="file://$PROJECT_DIR$/Bookstore.txt" />
+    <entry file="file://$PROJECT_DIR$/Bookstore1.dat" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/day3/TestCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/Lotek.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/day3/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/Lotto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/Exercise1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/UpperCase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/TableInsert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/zadanie/ChangeFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFilesave.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFile2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileOld.java" />
+    <entry file="file://$PROJECT_DIR$/Bookstore2.dat" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileBackup2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFileBackup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/domain/Author.java" />
+    <entry file="file://$PROJECT_DIR$/Bookstore.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/PracaDomowa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/praceDomowe/bookstore/dao/BookDAOMem.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/PracaDomowa.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/utils/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/utils/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/bookstore/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/bookstore/dao/BookDAO.java" />
+    <entry file="file://$PROJECT_DIR$/../PraceDomowe/src/bookstore/dao/BookDAOFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/day5/abstract4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/Kalkulator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day7/bookstore/dao/BookDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day7/bookstore/dao/BookDAOMem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day7/bookstore/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day5/IntToBin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day7/wyjatki/Wyjatek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/zadania/ZadaniaDom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day7/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day6/Kolekcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/Hello.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/Kalkulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/zadania/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Szkolenie</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
